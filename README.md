@@ -13,8 +13,9 @@ The main goal of this lecture:
 5. start data exploration analysis with jupyter notebook (mean, max, min, summary, average, boxplot, frequence distribution)
 6. what to do with missing data (identify them, delete them, or replace them with average)
 7. write data into a new file 
+8. learn about data structure (Lecture_One_Data_Structure.ipynb)
 
-## Part three: project-based learning
+## Part three: project management
 1. start a new project in github (nameing: Project_lastname)
 2. upload the new files into github
 3. start writing proposal in github
