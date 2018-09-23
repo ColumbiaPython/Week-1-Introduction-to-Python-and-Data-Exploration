@@ -2,8 +2,8 @@
 The main goal of this lecture:
 
 ## Part one: class organization
-1. introduce everybody in the class (10 min)
-2. talk about the syllabus (5 min)
+1. introduce everybody in the class 
+2. talk about the syllabus 
 
 ## Part two: programming
 1. install Anaconda (install python and jupyter notebook)
