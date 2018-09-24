@@ -1,4 +1,4 @@
-# Introduction to Python and Data Exploration
+# Introduction to Python: Data Structure and Data Exploration
 The main goal of this lecture:
 
 ## Part one: class organization
